@@ -1,3 +1,11 @@
+#titulo-id {
+    color: blueviolet;
+}
+
+.cor-amarela{
+    color: yellow;
+}
+
 h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(4, 57, 39);
@@ -9,7 +17,6 @@ p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
     line-height: 30px;
-    color: rgb(32, 54, 10);
 }
 
 h2 {
@@ -18,4 +25,13 @@ h2 {
 
 .fundo-verde {
     background: rgb(119, 80, 156);
+}
+
+.fonte-grande {
+    font-size: 50px;
+}
+
+#titulo-principal {
+    background: black;
+    color: white;
 }
